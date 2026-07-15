@@ -1,16 +1,30 @@
-## Hi there 👋
+# Liam Gibbons
 
-<!--
-**lgibbons12/lgibbons12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+MIT student building reliable full-stack and applied-AI systems.
 
-Here are some ideas to get you started:
+- Software engineer working on agent orchestration and evaluation
+- Former undergraduate researcher at MIT CSAIL
+- Varsity lacrosse player at MIT
+- Building Helm, a deployed academic planning platform
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Selected Work
+
+### Helm
+A full-stack academic command center built with React, TanStack,
+FastAPI, PostgreSQL, Google OAuth, Vercel, Render, and Neon.
+
+### Gamblor
+A social baseball prediction platform with game management,
+authentication, statistics, and ledger functionality.
+
+### LLM UI Baseline Runner
+A Playwright-based system for collecting standardized outputs
+from multiple LLM interfaces for research evaluation.
+
+## Technologies
+
+Python · TypeScript · React · FastAPI · PostgreSQL · Docker · Git
+
+## Contact
+
+LinkedIn: https://www.linkedin.com/in/liam-gibbons-401a92286/
