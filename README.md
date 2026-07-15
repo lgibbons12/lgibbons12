@@ -24,7 +24,3 @@ from multiple LLM interfaces for research evaluation.
 ## Technologies
 
 Python · TypeScript · React · FastAPI · PostgreSQL · Docker · Git
-
-## Contact
-
-LinkedIn: https://www.linkedin.com/in/liam-gibbons-401a92286/
